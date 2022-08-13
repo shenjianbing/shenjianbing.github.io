@@ -335,7 +335,7 @@ His Google scholar citations are about <strong><span id='total_cit'>16100+</span
 
 [3] **J. Shen**, D. Wang, X. Li, Depth-aware image seam carving.**IEEE Trans. on Cybernetics**, 43(5):1453-1461, 2013**([code](http://cs.bit.edu.cn/shenjianbing/tcyb13dsc.rar),SCI, IF=7.384)**
 
-[2] **J. Shen**, X. Yang,X. Li, Y. Jia, Intrinsic images decomposition using optimization and user scribbles.**IEEE Trans. on Cybernetics**, 43(2):425-436, 2013**([code](http://github.com/shenjianbing/intrinsic11),[project](file:///D:\\(2016\)%E6%8A%95%E7%A8%BF%E8%AE%BA%E6%96%87\\(2016shen\)BITWebsite\cvpr11.htm),SCI , IF=7.384)**
+[2] **J. Shen**, X. Yang,X. Li, Y. Jia, Intrinsic images decomposition using optimization and user scribbles.**IEEE Trans. on Cybernetics**, 43(2):425-436, 2013**([code](http://github.com/shenjianbing/intrinsic11),SCI , IF=7.384)**
 
 [1] **J. Shen**, X. Yang, Y. Jia, X. Li, Intrinsic images using optimization.**IEEE CVPR**, pp. 3481-3487, 2011**([code](http://github.com/shenjianbing/intrinsic11), CCF Rank A)**
 
