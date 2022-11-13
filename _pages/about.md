@@ -341,8 +341,12 @@ His Google scholar citations are about <strong><span id='total_cit'>16100+</span
 
 [1] **J. Shen**, X. Yang, Y. Jia, X. Li, Intrinsic images using optimization.**IEEE CVPR**, pp. 3481-3487, 2011**([code](http://github.com/shenjianbing/intrinsic11), CCF Rank A)**
 
+&nbsp;&nbsp;&nbsp;
 
 
-# Lab
 
-# Course
+[//]: # ()
+[//]: # (# Lab)
+
+[//]: # ()
+[//]: # (# Course)
